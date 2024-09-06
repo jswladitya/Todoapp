@@ -85,7 +85,3 @@ export default App;
 
 
 
-//LocalStorage
-//jaise hi app load hoye ho sakta he usme already kuch todos added ho & refresh karne par bhi wahi rahe, to islie inhe browser ke local storage me save karna hota he
-//useEffect, function call karke local storage me jao saari values leke aao jo bhi uske ander he aur unko state wale 'todos' me update kardo
-//
